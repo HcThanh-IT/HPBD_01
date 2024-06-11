@@ -1,6 +1,5 @@
 const contentLetterSrart_actived = `Hãy nói gì đó ở đây trước khi người ấy mở bức thư nhé.` //Lời mở đầu cho bức thư
 const mainContentLetter = `Gửi lời nhắn nhủ đến người bạn bạn yêu thương.
-Hãy nói gì đó ở đây trước khi người ấy mở bức thư nhé.
 1
 1
 1` //Nội dung của bức thư
