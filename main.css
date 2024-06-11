@@ -23,7 +23,7 @@ body {
 
 .startLetter {
     position: absolute;
-    top: 0px;
+    top: 1px;
     left: 50%;
     transform: translate(-50%, -90%);
     background-color: white;
